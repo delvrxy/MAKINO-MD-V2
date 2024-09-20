@@ -21,9 +21,9 @@ global.CHATBOT = false;
 
 global.SESSION_ID = process.env.SESSION_ID || ""
 global.Owner = ["6282133273825"]; //like 6282133273825 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
+global.OwnerName =  "Hamna";
+global.BotName = "♱Hatsune♱♡⃤";
+global.packname = "♱Hatsune♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; 
